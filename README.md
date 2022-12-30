@@ -6,8 +6,15 @@ My new portfolio project
 
 ## Technologies to be used
 
-- [ ] React
-- [ ] Redux
-- [ ] Node js
-- [ ] Express js
-- [ ] Mongo DB
+- [x] React
+- [x] Redux
+- [x] Node js
+- [x] Express js
+- [x] Mongo DB
+- [ ] Postgresql
+
+## Notable Implementations
+
+- [ ] Jwt Authentication
+- [ ] Routes Authorization
+- [ ] Frontend Animations
