@@ -7,14 +7,16 @@ My new portfolio project
 ## Technologies to be used
 
 - [x] React
-- [x] Redux
+- [x] Redux Toolkit
 - [x] Node js
 - [x] Express js
 - [x] Mongo DB
 - [ ] Postgresql
+- [x] Tailwind CSS
+- [x] SCSS
 
 ## Notable Implementations
 
-- [ ] Jwt Authentication
+- [ ] JsonwebToken Authentication
 - [ ] Routes Authorization
 - [ ] Frontend Animations
