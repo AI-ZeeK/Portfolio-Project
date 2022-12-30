@@ -2,21 +2,26 @@
 
 My new portfolio project
 
-### Full Stack Ecommerce Application
+### E-commerce Application
 
-## Technologies to be used
+This is an e-commerce application that allows users to browse and purchase products, chat with customer service, and pay using Stripe.
 
-- [x] React
-- [x] Redux Toolkit
-- [x] Node js
-- [x] Express js
-- [x] Mongo DB
-- [ ] Postgresql
-- [x] Tailwind CSS
-- [x] SCSS
+## Technologies
+
+The application is built using the following technologies:
+
+- Frontend: React, Redux Toolkit , Tailwind CSS, SCSS,
+- Backend : Node js, Express JS
+- Database: MongoDB , might also use Postgresql
+- payment gateway: Stripe API
 
 ## Notable Implementations
 
 - [ ] JsonwebToken Authentication
 - [ ] Routes Authorization
 - [ ] Frontend Animations
+- [ ] Stripe Payment Gateway
+
+## Contributing
+
+If you would like to contribute to the project, please follow these guidelines:
